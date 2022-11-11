@@ -1,4 +1,4 @@
-A simple ReactJs app for chatting, adding members to chat group is as simple as adding a user to src/App.js/users array.
+A simple ReactJs app for chatting, adding members to chat group is as simple as adding a user to [App.js](https://github.com/yosoyoscar/reactjs-chat/blob/main/src/App.js) users array.
 
 # Getting Started with Create React App
 
